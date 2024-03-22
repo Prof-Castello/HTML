@@ -1,3 +1,3 @@
 alerta = () => {
-    alert("Olá, eu sou um alerta!🚨")
-}
+  alert("Olá, eu sou um alerta!🚨");
+};
